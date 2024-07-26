@@ -1,0 +1,204 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "The Both Die At The End",
+      "price": 100,
+      "author": "Adam Silvera",
+      "image": "/image/TheyBothDieAtTheEnd.jpg",
+      "category": "Fiksi",
+      "detail": "Format : 389 pages Hardcover Published : September 5, 2017 by Quill Tree Books ISBN10: 0062457799 Language : English",
+      "synopsis": "On September 5, a little after midnight, Death-Cast calls Mateo Torrez and Rufus Emeterio to give them some bad news: They’re going to die today. Mateo and Rufus are total strangers, but, for different reasons, they’re both looking to make a new friend on their End Day. The good news: There’s an app for that. It’s called the Last Friend, and through it, Rufus and Mateo are about to meet up for one last great adventure—to live a lifetime in a single day.",
+      "description": "Adam Silvera reminds us that there’s no life without death and no love without loss in this devastating yet uplifting story about two people whose lives change over the course of one unforgettable day."
+    },
+    {
+      "id": "2",
+      "title": "Psychology of Emotions",
+      "price": 85,
+      "author": "David J.Liebrman",
+      "image": "/image/PsychologyOfEmotions.jpg",
+      "category": "Self Development",
+      "detail": "Number of Pages : 288, Publisher : Baca, Publication Date :June 8, 2023, Weight : 0.23 kg, ISBN : 9786026486929, Width : 2.0 cm, Length : 20.0 cm",
+      "synopsis": "The Psychology of Emotion shows how to permanently change your perspective. This will automatically make minor problems in life disappear from your radar, and major issues will never materialize in moments of intense frustration or uncontrollable anger. Instead, these major problems will be viewed through a lens of genuine acceptance. Discover the easy way to live free of anger and never be easily offended again—unless you choose to be.",
+      "description": "What enables some people to navigate the ups and downs, twists and turns, obstacles, and challenges of life with calmness and control, while others are provoked by the slightest insult, crumble in the face of minor frustrations, and explode over small disappointments? The answer is: perspective."
+    },
+    {
+      "id": "3",
+      "title": "Laut Bercerita",
+      "price": 82,
+      "author": "Leila S. Chudori",
+      "image": "/image/LautBercerita.jpg",
+      "category": "Fiksi",
+      "detail": "Number of Pages : 394, Publisher : Kepustakaan Populer Gramedia, Publication Date :October 25, 2017, ISBN : SCOOPG143505",
+      "synopsis": "Laut Bercerita, the latest novel by Leila S. Chudori, tells the story of a family dealing with loss, a group of friends feeling emptiness in their hearts, a faction of people who enjoy torturing and easily betray others, several families seeking clarity about their children's graves, and a love that will never fade.",
+      "description": "This novel embodies in fiction the idea that we, as the Indonesian nation, must not forget the history that has shaped and supported our country. It also invites readers to uncover the mysteries of our nation that are not taught in schools. Although this novel is a work of fiction, Laut Bercerita shows readers that this country once experienced a dark period of governance."
+    },
+    {
+      "id": "4",
+      "title": "Gadis Kretek",
+      "price": 60,
+      "author": "Ratih Kumala",
+      "image": "/image/GadisKretek.jpg",
+      "category": "Fiksi",
+      "detail": "Number of Pages : 288, Publisher : Gramedia Pustaka Utama, Publication Date : July 7, 2019, Weight : 0.16 kg, ISBN : 9789792281415, Width : 13.5 cm, Language : Indonesian, Length : 20.0 cm",
+      "synopsis": "Pak Raja is on his deathbed. As he waits for his end, he calls out the name of a woman who is not his wife; Jeng Yah. His three children, heirs to the Kretek Djagad Raja, are consumed by worry. The mother, already burning with jealousy, is further stoked by her husband's final request to meet Jeng Yah. Thus, racing against the angel of death, Lebas, Karim, and Tegar venture into the remote corners of Java to find Jeng Yah before death claims their father.",
+      "description": "Gadis Kretek is a novel written by Ratih Kumala. This novel portrays the development of the kretek industry during the Dutch colonial period until independence. In this story, the owner of the kretek industry (Romo) passes it down to his eldest son named Tegar."
+    },
+    {
+      "id": "5",
+      "title": "Think and Grow Rich",
+      "price": 155,
+      "author": "Napoleon Hill",
+      "image": "/image/ThinkAndGrowRich.jpg",
+      "category": "Self Development",
+      "detail": "Author: Napoleon Hill, Publisher: Random House US, Publication Year: May 6, 2021, Number of Pages: 256 pages, Weight: 135 grams, Dimensions (L x W): 17 x 10 cm, ISBN: 9780449214923, Cover: Soft-cover, Language: English",
+      "synopsis": "This book contains money-making secrets that can change your life. Think and Grow Rich, based on the author's famed Law of Success, represents the distilled wisdom of distinguished men of great wealth and achievement. Andrew Carnegie's magic formula for success was the direct inspiration for this book. Carnegie demonstrated its soundness when his coaching brought fortunes to those young men to whom he had disclosed his secret. This book will teach you that secret--and the secrets of other great men like him. It will show you not only what to do but also how to do it. If you learn and apply the simple basic techniques revealed here, you will have mastered the secret of true and lasting success--and you may have whatever you want in life!",
+      "description": "This book was written by Napoleon Hill (October 26, 1883 – November 8, 1970) was an American author. He is widely regarded as one of the greatest successful authors of books. His best-known book, Think and Grow Rich (1937), is one of the best-selling books of all time."
+    },
+    {
+      "id": "6",
+      "title": "Mahajana",
+      "price": 90,
+      "author": "Gigrey",
+      "image": "/image/Mahajana.jpg",
+      "category": "Sejarah",
+      "detail": "Number of Pages: 456, Publisher: Kawah Media, Publication Date: January 23, 2024, Weight: 0.36 kg, ISBN: 9786235953649, Width: 14.0 cm, Length: 20.0 cm",
+      "synopsis": "A man sprinted through the crowded airport, his clothes no longer neatly arranged. He paid no heed to the curses of those he jostled past. Right now, the purpose of his life hung in the balance. If he let it slip away once more, there would be no third chances. This second chance would also be his last. He had made his decision, and the woman was his destination. He had to apologize for all his past mistakes up until now. His feet halted as he spotted the woman he was looking for dragging her suitcase. Her long hair was neatly tied with the yellow ribbon he had given her. Wiping sweat from his brow, he chuckled ruefully. After firming his resolve, he smoothed down his disheveled shoulder-length hair, tousled by the human whirlwind as he ran.",
+      "description": "Waking up and resuming life as a teenager once more, Hayam Wuruk, the king of the Majapahit Kingdom, lived with the burden of an unresolved past. Time kept ticking away until one day, a second chance presented itself. The figure who made him realize he was late to love also appeared. Although in a different form, Hayam believed that Sachiandra Dewi was the reincarnation of Sri Sudewi, his lover from the Majapahit era. The presence of the girl once again prompted Hayam Wuruk to learn from the past to correct his mistakes in the second chance given to him."
+    },
+    {
+      "id": "7",
+      "title": "Pulang",
+      "price": 95,
+      "author": "Leila S. Chudori",
+      "image": "/image/Pulang.jpg",
+      "category": "Sejarah",
+      "detail": "Number of Pages: 462, Publisher: Kepustakaan Populer Gramedia, Publication Date: December 19, 2023, Weight: 0.28 kg, ISBN: 9786024242756, Width: 13.5 cm, Language: Indonesian, Length: 20 cm",
+      "synopsis": "Pulang is a story of two generations—Dimas Suryo and his daughter, Lintang Utara—who reside together in Paris, France. Like thousands of other Indonesian citizens trapped in various countries with stateless status, Dimas Suryo's family can never return to Indonesia because their passports have been revoked, and their lives are threatened. In 1998, Lintang Utara finally manages to set foot on Indonesian soil. She comes to experience her family's ordeal as victims of the 1965 Tragedy for her final college assignment. What Lintang uncovers is not just her father's past but also how the bloodiest history of Indonesia is intertwined with Dimas Suryo and his comrades.",
+      "description": "Pulang is the first novel in a trilogy that tells the story of the events of 1965, depicting family drama, friendship, love, and betrayal against the backdrop of three historical events: Indonesia in September 30, 1965, France in May 1968, and Indonesia in May 1998."
+    },
+    {
+      "id": "8",
+      "title": "The Mountain is You",
+      "price": 107,
+      "author": "Brianna Wiest",
+      "image": "/image/TheMountainIsYou.jpg",
+      "category": "Self Development",
+      "detail": "Number of Pages: 280, Publisher: Renebook, Publication Date: December 7, 2023, Weight: 0.245 kg, ISBN: 9786236083697, Width: 14 cm, Language: Indonesian, Length: 21 cm",
+      "synopsis": "The book 'The Mountain Is You' by Brianna Wiest discusses self-sabotage, which is behavior when someone consciously or unconsciously does things that hinder them from achieving their goals. Brianna Wiest explains that self-sabotage is a common issue experienced by many people and can be caused by various factors such as fear, lack of self-confidence, and past trauma.",
+      "description": "In this book, Brianna Wiest uses examples from everyday life to illustrate various self-sabotaging behaviors and provides detailed explanations on how to overcome them. She encourages you to delve into your heart and mind, let go of painful pasts, and discover your best potential for the future. Ultimately, it's not the high mountain that you have to conquer, but yourself."
+    },
+    {
+      "id": "9",
+      "title": "Awan-awan di Atas Kepala Kita",
+      "price": 80,
+      "author": "Miranda Malonka",
+      "image": "/image/Awan-awanDiAtasKepalaKita.jpg",
+      "category": "Fiksi",
+      "detail": "Author: Miranda Malonka, Publisher: Gramedia Pustaka Utama, Pages: 392 pages, Format: Soft Cover, Publication Date: September 27, 2022, ISBN: 9786020664453, Weight: 0.32 kg, Dimensions: 13.5 x 20 cm",
+      "synopsis": "Benjamin Iskandar was nineteen years old when he decided to end his life, but at that moment, Kirana Kharitonova happened to pass by and save him. Benjamin and Kirana come from different worlds, their backgrounds starkly contrasting. Their personalities are like drought and overcast weather.",
+      "description": "The novel 'YOUNG ADULT: CLOUDS ABOVE OUR HEADS' by Miranda Malonka tells the story of Benjamin Iskandar, who is celebrating his nineteenth birthday. However, Benjamin decides to end his life by suicide as he feels unable to cope with the problems he's facing. As he's about to go through with it, Kirana Kharitonova, who happens to pass by, finds Benjamin and immediately helps him, ultimately saving him from taking his own life."
+    },
+    {
+      "id": "10",
+      "title": "Love for Imperfect Things",
+      "price": 190,
+      "author": "Haemin Sunim",
+      "image": "/image/LoveForImperfectThings.jpg",
+      "category": "Self Development",
+      "detail": "Number of Pages: 272, Publisher: Sinar Star Book, Publication Date: February 13, 2022, Weight: 0.27 kg, ISBN: 9780143132295, Width: 13.0 cm, Length: 0.0 cm",
+      "synopsis": "In this book, Haemin Sunim turns his trademark wisdom to the art of self-care, arguing that only by accepting yourself you can have compassionate and fulfilling relationships with your partner, your family, and your friends. This book will help you learn to love yourself, your life, and everyone in it. When you care for yourself first, the world begins to find you worthy of care.",
+      "description": "Many of us respond to the pressures of life by turning inward and ignoring problems, sometimes resulting in anxiety or depression. Others react by working harder, hoping that this will make ourselves and the people we love happier. But what if being yourself is enough?"
+    },
+    {
+      "id": "11",
+      "title": "CunningFolk",
+      "price": "160.000",
+      "author": "Tabitha Stanmmore",
+      "image": "/image/CunningFolk.jpg",
+      "category": "Sejarah",
+      "detail": "Format : 272 pages,Published : May 2, 2024 by Vintage Digital, ISBN : 9781529926347, Language : English",
+      "synopsis": "In medieval and early modern Europe, your first port of call might have been cunning practitioners of 'service magic'. Neither feared (like witches), nor venerated (like saints), these people were a ubiquitous presence at a time when the supernatural was surprisingly mundane and a cherished everyday resource. We meet lovelorn widows, selfless healers and renegade monks; we listen in on Queen Elizabeth I’s astrology readings and track treasure hunters who try to keep peace with fairies. Much like us, premodern people lived in bewildering times, buffeted by forces beyond their control – and their faith in magic has much to teach us about how we accommodate ourselves to the irrational in our allegedly enlightened lives today.",
+      "description": "It’s 1600 and you’ve lost your precious silver spoons, or maybe they’ve been stolen. Perhaps your child has a fever. Or you’re facing trial. Maybe you’re looking for love or escaping a husband. What do you do?"
+    },
+    {
+      "id": "12",
+      "title": "TheSilentFactory",
+      "price": 220,
+      "author": "Bridget Collins",
+      "image": "/image/TheSilentFactory.jpg",
+      "category": "Sejarah",
+      "detail": "Format : 384 pages, Hardcover, Expected publication : August 20, 2024 by William Morrow, ISBN : 9780063220010, Language : English",
+      "synopsis": "1820: Sophia Ashmore-Percy reluctantly accompanies her husband James to a remote Greek island, where he searches for rare biological specimens. Once there, however, she sets on her own voyage of discovery—stumbling across the very creature he is looking for, making an unexpected connection with a local woman, and ultimately reconsidering her marriage, life, and own desires.",
+      "description": "From the acclaimed author of the #1 international bestseller The Binding—a captivating story of gothic suspense about a powerful family, the magical and dangerous silk their fortune is built upon, and the exploitative history they are desperately trying to hide."
+    }
+  ],
+  "cart": [
+    {
+      "id": "2",
+      "title": "Psychology of Emotions",
+      "price": 85,
+      "author": "David J.Liebrman",
+      "image": "/image/PsychologyOfEmotions.jpg",
+      "category": "Self Development",
+      "detail": "Number of Pages : 288, Publisher : Baca, Publication Date :June 8, 2023, Weight : 0.23 kg, ISBN : 9786026486929, Width : 2.0 cm, Length : 20.0 cm",
+      "synopsis": "The Psychology of Emotion shows how to permanently change your perspective. This will automatically make minor problems in life disappear from your radar, and major issues will never materialize in moments of intense frustration or uncontrollable anger. Instead, these major problems will be viewed through a lens of genuine acceptance. Discover the easy way to live free of anger and never be easily offended again—unless you choose to be.",
+      "description": "What enables some people to navigate the ups and downs, twists and turns, obstacles, and challenges of life with calmness and control, while others are provoked by the slightest insult, crumble in the face of minor frustrations, and explode over small disappointments? The answer is: perspective.",
+      "quantity": 1
+    },
+    {
+      "id": "1",
+      "title": "The Both Die At The End",
+      "price": 100,
+      "author": "Adam Silvera",
+      "image": "/image/TheyBothDieAtTheEnd.jpg",
+      "category": "Fiksi",
+      "detail": "Format : 389 pages Hardcover Published : September 5, 2017 by Quill Tree Books ISBN10: 0062457799 Language : English",
+      "synopsis": "On September 5, a little after midnight, Death-Cast calls Mateo Torrez and Rufus Emeterio to give them some bad news: They’re going to die today. Mateo and Rufus are total strangers, but, for different reasons, they’re both looking to make a new friend on their End Day. The good news: There’s an app for that. It’s called the Last Friend, and through it, Rufus and Mateo are about to meet up for one last great adventure—to live a lifetime in a single day.",
+      "description": "Adam Silvera reminds us that there’s no life without death and no love without loss in this devastating yet uplifting story about two people whose lives change over the course of one unforgettable day.",
+      "quantity": 1
+    }
+  ],
+  "user": [
+    {
+      "gmail": "evanzaqli@gmail.com",
+      "password": "admin",
+      "id": "cc19"
+    },
+    {
+      "id": "2194",
+      "email": "evanzaqli@gmail.com",
+      "password": "aaaa"
+    },
+    {
+      "id": "1594",
+      "email": "evanzaqli@gmail.com",
+      "password": "admin"
+    },
+    {
+      "id": "064e",
+      "email": "evanzaqli@gmail.com",
+      "password": "admin"
+    },
+    {
+      "id": "5379",
+      "email": "evanzaqli@gmail.com",
+      "password": "admin"
+    },
+    {
+      "id": "98d9",
+      "email": "evanzaqli@gmail.com",
+      "password": "akkk"
+    },
+    {
+      "id": "6769",
+      "email": "evanzaqli@gmail.com",
+      "password": "jjjjjjj"
+    },
+    {
+      "id": "73af",
+      "email": "evanzaqli@gmail.com",
+      "password": "admin"
+    }
+  ]
+}
